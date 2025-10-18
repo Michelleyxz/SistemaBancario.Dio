@@ -1,4 +1,4 @@
-Desafio: Otimização de Sistema Bancário em Python
+DESAFIO: OTIMIZAÇÃO DE SISTEMA BANCÁRIO EM PYTHON
 
 Este repositório apresenta uma versão aprimorada do sistema bancário básico, agora refatorado com funções Python para tornar o código mais organizado e reutilizável.
 
