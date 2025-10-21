@@ -14,15 +14,12 @@ Além disso, o projeto reforça conceitos fundamentais como controle de fluxo, o
 
 Projeto desenvolvido como parte de um desafio de aprendizado para praticar refatoração e lógica em Python.
 
-
-# Sistema Bancário em Python
+Sistema Bancário em Python
 
 Este é um projeto prático desenvolvido durante o curso Back-End com Python da DIO.  
 O objetivo foi criar um sistema bancário funcional no terminal, utilizando funções em Python para organizar melhor o código e facilitar a manutenção.
 
----
-
-## Funcionalidades
+ Funcionalidades
 
 - Depositar: adiciona dinheiro ao saldo da conta.  
 - Sacar: retira dinheiro respeitando saldo, limite e número máximo de saques.  
@@ -31,18 +28,28 @@ O objetivo foi criar um sistema bancário funcional no terminal, utilizando fun�
 - Criar conta: vincula contas a usuários já cadastrados.  
 - Listar contas: mostra todas as contas cadastradas.
 
----
-
-## Tecnologias
+ Tecnologias
 
 - Python 3  
 - Funções para modularizar o código  
 - Interação pelo terminal  
 - Conceitos de lógica e boas práticas de programação
 
----
+Como executar
+Clone o repositório para sua máquina local:
 
-## Como executar
+Bash
+
+git clone []
+cd sistema-bancario
+Execute o arquivo principal:
+
+Bash
+
+python seu_arquivo.py
+
+Código do desafio
+
 import textwrap
 
 def menu():
