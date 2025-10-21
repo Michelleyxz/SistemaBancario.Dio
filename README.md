@@ -40,7 +40,7 @@ Clone o repositório para sua máquina local:
 
 Bash
 
-git clone []
+git clone [gh repo clone Michelleyxz/SistemaBancario.Dio]
 cd sistema-bancario
 Execute o arquivo principal:
 
